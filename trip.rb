@@ -1,4 +1,4 @@
-puts "Where do you want to stay?"
+puts "Where do you expect to stay?"
 stay= gets.chomp
 puts "What sites do you want to visit?"
 sites= gets.chomp
